@@ -1,0 +1,19 @@
+{
+    "name": "dsoppelsa/chat",
+    "description": "Chat App with WebSockets!",
+    "require": {
+        "cboden/ratchet": "0.3.*",
+        "illuminate/database": "v4.1.24"
+    },
+    "autoload": {
+      "psr-0": {
+          "ChatApp": ""
+      }
+    },
+    "authors": [
+        {
+            "name": "Dan Soppelsa",
+            "email": "dan@soupbowl.ca"
+        }
+    ]
+}
